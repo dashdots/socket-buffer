@@ -1,0 +1,15 @@
+{
+  "name": "socket-buffer",
+  "description": "Buffer for socket message",
+  "version": "1.0.0",
+  "homepage": "https://github.com/dashdot/socket-buffer",
+  "author": "dashdot (https://github.com/dashdot)",
+  "license": "NO LICENSE",
+  "main": "socket-buffer.es6.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test\" && exit 1"
+  }
+}
