@@ -9,6 +9,9 @@
   "engines": {
     "node": ">=0.10.0"
   },
+  "dependencies": {
+    "pako": "^1.0.3"
+  },
   "scripts": {
     "test": "echo \"Error: no test\" && exit 1"
   }
